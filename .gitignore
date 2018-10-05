@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+dist/
+config/local.*
+npm-debug.log
+.nyc_output/
+newrelic_agent.log
